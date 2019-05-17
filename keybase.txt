@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/orfeous
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://orfeous.github.io
+  * I am orfeous (https://keybase.io/orfeous) on keybase.
+  * I have a public key with fingerprint A120 5BDA 0237 E191 2435  F2D2 A45F A8E0 256C 23C9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ef9d2d16067baaf5f4975a8f90f7b19c6a76c6b4229059eed64d6c15a5a5aa040a",
+      "fingerprint": "a1205bda0237e1912435f2d2a45fa8e0256c23c9",
+      "host": "keybase.io",
+      "key_id": "a45fa8e0256c23c9",
+      "kid": "0101ef9d2d16067baaf5f4975a8f90f7b19c6a76c6b4229059eed64d6c15a5a5aa040a",
+      "uid": "15db465f52447cee511f1d8437871c19",
+      "username": "orfeous"
+    },
+    "merkle_root": {
+      "ctime": 1558104949,
+      "hash_meta": "c2a7557413f23afe6cb790fb00ff6587d24732221745d2ecc505f2f4ab0dfe92",
+      "seqno": 5393679
+    },
+    "revoke": {
+      "sig_ids": [
+        "6b603d1eb5a8841daf935bc026629218ee3e2a438bf3c486a21b30451795ad180f"
+      ]
+    },
+    "service": {
+      "hostname": "orfeous.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1558104950,
+  "expire_in": 157680000,
+  "prev": "9cc20a9e399453886a5f39c674039ad30310d4530f952e05c8c2f20c4beef730",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMK4AnicrVNtiFVFGL430+Uu2hpEQWsEJwvbNpvPM2cuRG7UD9EgIkpo6zSf9x52
+9557zzn3mrushLVZCWb0Q9vFDP2VEhVt7NIPC1MppQ9WMXFXzdigTLASiTbI5mxF
+FP1s5scwM8/7vM/7vDMHlywotBf3/HJo8am5g0uLRw8MNgu9Z462hjwZ6w1eecjr
+M/OL6dcmzcK+SHtlD0AAjeUaaegDn0khLLWEMyoCy4FlEnLlC+YrXxKEOKDcGO0T
+7StIRT4FIEB43Z6NahWT1JOoljlaARGgUguAMDOQQ0QwtUgjQagVgQGI+gphxV1g
+NU7zCCdOitSsjGJ35jbhvLz/wP/PupvzdJBqSXxqKSKEKWMohBbqgGAWMKhgnreZ
+mqQmBoxDx4k1cTP1hru9AZP09ZswieMs91ZlUY6AlAYQEE64q0+k1XDAZMIFKiQY
+pYxAbBEW1vhKMqdWAmCtTwOmEWEYIQQZoRoZpShwtlkiJNDWcORkpKZRi70yxRz7
+jDsFiWnFfSZPnkYV51rqlR/zfOkDrKGRzo+AQC0sx1QqgHwfcQQDY7BxzcCBtFiR
+wBcISgwIhYxToWEArPf4cJ4saUVqnjxv0z/LX1mJsmpT/tGxehJnsYr73XU1y+pp
+OTcn21DP8euNDP9kCmVU0+6luIiWSdIorjmzHPJfvlHQ7Zmn6lFiwihHUOYHwI08
+j2k5Sq4UAoIbzDmhOHAFUItdxxkBmAuNAYZAuxtgOUUGUBUoZBFQRBpjGQZ/Gwmx
+0ykqjtPZVxNZMzHe8IEPe68uFNsLixZelX+hQntp6V8f6/PdbVceIpcbC7qKTxwy
+ExNdX24Zefqt575fct2Pk+nxFZ2z+zqXs8O9E++OnywFpX3ozhM3vvHBjsvLxt9M
+vgomzm6fvbf6HimEDfFZtvq1bzpuP/nIqnW14uz17y+bnrryiryw96aH7zj/4taN
+bPRt8gNvbJ3btatrxWC4ffTXmRe+6wGv7nmmXL7YqJ7ZMvPAt3t3Pjv9Tk9pZGxu
++W1fFG6NV48dO7dt+uOha3qePLJj/0trzk4ev+VSvHussnDR6c3Xblp/+uZ1M5tI
+5+vP3xdduOh5bYeje34urdo8OnjiwRvGXv7o/MjUsf2P3n9qPNiZbLzUcdfa4pGp
+T38DXgde+9O2uYE1d/e3nft68pPFye9yQoeb
+=8/jw
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/orfeous
+
+==================================================================
