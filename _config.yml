@@ -1,10 +1,53 @@
----
-title: Orfeous.Github.Io
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+title: Orfeous
+author: Orfeous
+email: orfeous.b@gmail.com # email for form submission, you also have to change it in _js/scripts.js
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://orfeous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Orfeousb # replace with your_twitter_username or comment to remove link from footer
+github_username:  orfeous # replace with your_github_username or comment to remove link from footer
+instagram_username: orfeous.b # replace with your_instagram_username or comment to remove link from footer
+linkedin_username: raczgabor
+facebook_username: gabor.b.racz
+telegram_username: orfeous
+social:
+  name: Your Name
+  links:
+    - https://twitter.com/Orfeousb
+    - https://www.facebook.com/gabor.b.racz
+    - https://www.linkedin.com/in/raczgabor
+    - https://github.com/orfeous
+    - https://keybase.io/orfeous
+
+disqus:
+  shortname: orfeous # to enable comments replace with your_disqus_shortname
+
+# Build settings
+markdown: kramdown
+highlighter: rouge # or pygments or null
+theme: jekyll-sleek
+exclude:
+  - README.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.png
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-admin
