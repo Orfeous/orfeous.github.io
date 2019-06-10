@@ -2,7 +2,7 @@ title: Orfeous
 author: Orfeous
 email: orfeous.b@gmail.com # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  Gabor Racz.
+  Gabor Racz - Full stack infrastructure and software engineer.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://orfeous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Orfeousb # replace with your_twitter_username or comment to remove link from footer
@@ -12,7 +12,7 @@ linkedin_username: raczgabor
 facebook_username: gabor.b.racz
 telegram_username: orfeous
 social:
-  name: Gabor Racz - Full stack infrastructure and software engineer.
+  name: Gabor Racz
   links:
     - https://twitter.com/Orfeousb
     - https://www.facebook.com/gabor.b.racz
