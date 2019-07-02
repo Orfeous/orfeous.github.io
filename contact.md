@@ -14,7 +14,7 @@ If you'd like to discuss your questions/ideas/concerns or whatever with me, you 
  * [Instagram Direct](https://www.instagram.com/{{site.instagram_username}}){:target="_blank" rel="noopener"}
  * [Telegram Messenger](https://telegram.im/@{{site.telegram_username}}){:target="_blank" rel="noopener"}
  * [Drop a mail](mailto:{{site.email}}){:target="_blank" rel="noopener"}
- * [Twitter](mailto:{{site.email}}){:target="_blank" rel="noopener"} (note that: I have no idea how Twitter works and/or how to use it... 😕 )
+ * [Twitter](https://twitter.com/{{site.twitter_username}}){:target="_blank" rel="noopener"} (note that: I have no idea how Twitter works and/or how to use it... 😕 )
 
 <!---
 {% include form.html %}
